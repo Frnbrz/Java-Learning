@@ -1,0 +1,19 @@
+
+S
+java:S18545"=Remove this useless assignment to local variable "continuar".(³„›æ
+@	java:S106"+Replace this use of System.out by a logger.(ïØÉó
+E	java:S106"+Replace this use of System.out by a logger.(…“ñóûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(é÷
+E	java:S106"+Replace this use of System.out by a logger.(ÙÑçúÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(·¢ò@
+?	java:S106$"+Replace this use of System.out by a logger.(Å™‘C
+@	java:S106)"+Replace this use of System.out by a logger.(éËŠÒ
+@	java:S106."+Replace this use of System.out by a logger.(‡Ñ¥Ó
+E	java:S1060"+Replace this use of System.out by a logger.(áÜŸ´ûÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(ÚÿÚú
+@	java:S1069"+Replace this use of System.out by a logger.(¯®ş¾
+E	java:S106<"+Replace this use of System.out by a logger.(º…ÚÔøÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(ÔÙÛıûÿÿÿÿ
+~
+java:S1157B"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(´œº²şÿÿÿÿ
+L	java:S106D"+Replace this use of System.out by a logger.(ÿµ€Óùÿÿÿÿ8Ûèˆ£¹1
